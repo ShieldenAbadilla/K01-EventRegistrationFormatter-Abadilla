@@ -1,5 +1,3 @@
-# K01-PreparingForASchoolEvent-ABADILLA
-
 # Student Event Registration Formatter
 
 ## Description
