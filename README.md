@@ -12,7 +12,7 @@ Python.
 strip(), title(), and upper()
 
 ## Date/Time Feature Used
-Write the date/time feature you used.
+datetime
 
 ## Version History
 - Version 1: Basic input and output
